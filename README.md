@@ -22,9 +22,6 @@ Welcome to the Python Project repository! This repository contains a collection 
 
 9. **Word count tool.py:** Analyze the word count of a text document with this useful tool. Simply input your text, and the program will provide you with the total number of words, as well as a breakdown of unique words and their frequencies.
 
-## Getting Started
-
-To get started with any of these projects, follow the instructions provided in each project's respective directory. You'll find detailed documentation, including installation steps and usage examples.
 
 ## Contributing
 
